@@ -1,0 +1,7 @@
+{
+  "name": "Fredo Meteo",
+  "description": "A beautiful, atmospheric weather application providing real-time forecasts and conditions, powered by Fredo Intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
